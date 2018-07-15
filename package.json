@@ -1,0 +1,22 @@
+{
+  "name": "gigmor-homepage",
+  "version": "1.0.0",
+  "description": "Gigmor package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gigmor-homepage"
+  },
+  "keywords": [
+    "gigmor"
+  ],
+  "author": "Chris Porter",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
