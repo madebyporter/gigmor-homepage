@@ -123,7 +123,7 @@ a {
 .comp-buckets--icon {
   height: 100px;
   width: 100px;
-  margin: 2rem auto;
+  margin: 0 auto 2rem auto;
   position: relative;
   @include flexbox;
   align-items: center;
@@ -195,14 +195,21 @@ a {
   .menu li {
     align-items: center;
     margin: 0 1rem 0 0;
+    &.nav-el {
+      display: none;
+      margin: 0 2rem 0 0;
+      @media (min-width: $mq-large) {
+        @include flexbox;
+      }
+    }
     &:last-child {
       margin-right: 0;
     }
   }
   .menu-cta {
     display: none;
-    @media (min-width: $mq-medium) {
-      display: block;
+    @media (min-width: $mq-large) {
+      @include flexbox;
     }
   }
   .menu-trigger {
@@ -210,13 +217,13 @@ a {
     cursor: pointer;
     display: block;
     @include font-size(24);
-    @media (min-width: $mq-medium) {
+    @media (min-width: $mq-large) {
       display: none;
     }
   }
   .nav-logo {
     background: url('../images/gigmor-logo-mobile.svg') no-repeat left top;
-    background-size: cover;
+    background-size: contain;
     display: block;
     height: 44px;
     width: 42px;
@@ -412,6 +419,8 @@ a {
 .pattern-logos {
   li img {
     margin: 1rem 0;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
   }
 }
 
