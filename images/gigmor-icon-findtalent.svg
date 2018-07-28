@@ -1,59 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="132px" height="77px" viewBox="0 0 132 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-findtalent</title>
+<svg width="99px" height="99px" viewBox="0 0 99 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>gigmor-icon-findtalent</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="gigmor-landing-desktop-copy-11" transform="translate(-334.000000, -1670.000000)">
-            <g id="Group-13" transform="translate(95.000000, 771.000000)">
-                <g id="Group-8" transform="translate(125.000000, 847.000000)">
-                    <g id="Group-3">
-                        <g id="Group-37" transform="translate(61.000000, 52.000000)">
-                            <g id="icon-findtalent" transform="translate(53.000000, 0.000000)">
-                                <g id="Group-27">
-                                    <rect id="Rectangle-6" fill="#4D4343" x="0" y="0" width="132" height="77" rx="4"></rect>
-                                    <rect id="Rectangle-6" fill="#4D4343" x="4" y="15" width="124" height="58" rx="2"></rect>
-                                    <g id="Group-28" transform="translate(8.000000, 19.000000)">
-                                        <rect id="Rectangle-10" fill="#807878" x="25" y="0" width="27.6700001" height="29" rx="2"></rect>
-                                        <g id="Group-40" transform="translate(29.000000, 4.000000)" fill="#999494">
-                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
-                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="2" rx="1"></rect>
-                                            <rect id="Rectangle-9" x="1" y="19" width="18" height="2" rx="1"></rect>
-                                        </g>
-                                        <rect id="Rectangle-10" fill="#FFC12F" x="57" y="0" width="27.6700001" height="29" rx="2"></rect>
-                                        <g id="Group-40" transform="translate(61.000000, 4.000000)">
-                                            <circle id="Oval-5" fill="#FFEFAD" cx="10" cy="6" r="6"></circle>
-                                            <rect id="Rectangle-9" fill="#FFEFAD" x="0" y="16" width="20" height="2" rx="1"></rect>
-                                            <rect id="Rectangle-9" fill="#FFE47A" x="1" y="19" width="18" height="2" rx="1"></rect>
-                                        </g>
-                                        <rect id="Rectangle-10" fill="#807878" x="89" y="0" width="27.6700001" height="29" rx="2"></rect>
-                                        <g id="Group-40" transform="translate(93.000000, 4.000000)" fill="#999494">
-                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
-                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="2" rx="1"></rect>
-                                            <rect id="Rectangle-9" x="1" y="19" width="18" height="2" rx="1"></rect>
-                                        </g>
-                                        <path d="M27,33 L50.6700001,33 C51.7745696,33 52.6700001,33.8954305 52.6700001,35 L52.6700001,54 L25,54 L25,35 C25,33.8954305 25.8954305,33 27,33 Z" id="Rectangle-10" fill="#807878"></path>
-                                        <g id="Group-40" transform="translate(29.000000, 37.000000)" fill="#999494">
-                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
-                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="1" rx="0.5"></rect>
-                                        </g>
-                                        <path d="M59,33 L82.6700001,33 C83.7745696,33 84.6700001,33.8954305 84.6700001,35 L84.6700001,54 L57,54 L57,35 C57,33.8954305 57.8954305,33 59,33 Z" id="Rectangle-10" fill="#807878"></path>
-                                        <g id="Group-40" transform="translate(61.000000, 37.000000)" fill="#999494">
-                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
-                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="1" rx="0.5"></rect>
-                                        </g>
-                                        <path d="M91,33 L114.67,33 C115.77457,33 116.67,33.8954305 116.67,35 L116.67,54 L89,54 L89,35 C89,33.8954305 89.8954305,33 91,33 Z" id="Rectangle-10" fill="#807878"></path>
-                                        <g id="Group-40" transform="translate(93.000000, 37.000000)" fill="#999494">
-                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
-                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="1" rx="0.5"></rect>
-                                        </g>
-                                        <path d="M1,0 L20,0 C20.5522847,-1.01453063e-16 21,0.44771525 21,1 L21,54 L0,54 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-10" fill="#807878"></path>
-                                    </g>
-                                    <circle id="Oval-3" fill="#FF6159" cx="8.5" cy="7.5" r="3.5"></circle>
-                                    <circle id="Oval-3" fill="#FFC12F" cx="18.5" cy="7.5" r="3.5"></circle>
-                                    <circle id="Oval-3" fill="#29CB41" cx="28.5" cy="7.5" r="3.5"></circle>
-                                </g>
+        <g id="gigmor-landing-desktop-copy-13" transform="translate(-350.000000, -1608.000000)" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(0.000000, 731.000000)">
+                <g id="Talent-Seekers" transform="translate(95.000000, 0.000000)">
+                    <g id="Group-8" transform="translate(125.000000, 847.000000)">
+                        <g id="Group-3">
+                            <g id="gigmor-icon-findtalent" transform="translate(130.000000, 30.000000)">
+                                <polygon id="Shape" fill="#E24C29" points="44.2318841 16.8695652 48.1884058 34.884058 65.2753623 41.826087 49.3623188 51.1594203 48.0434783 69.5507246 34.2463768 57.3043478 16.3478261 61.7246377 23.7246377 44.826087 13.9855072 29.1594203 32.3478261 30.9565217"></polygon>
+                                <polygon id="Shape" fill="#675A5B" opacity="0.7" points="84.2318841 4 83.9710145 9.13043478 88.0724638 12.2608696 83.1014493 13.6086957 81.3913043 18.4637681 78.5797101 14.1594203 73.4347826 14.0289855 76.6666667 10.0289855 75.1884058 5.08695652 80 6.92753623"></polygon>
+                                <polygon id="Shape" fill="#675A5B" opacity="0.7" points="67.3913043 8.49275362 63.4202899 8.2173913 60.942029 11.3333333 59.9855072 7.47826087 56.2608696 6.08695652 59.6231884 3.97101449 59.7971014 0 62.8405797 2.55072464 66.6811594 1.49275362 65.1884058 5.17391304"></polygon>
+                                <polygon id="Shape" fill="#675A5B" opacity="0.7" points="58.057971 24.6666667 59.6376812 26.6956522 62.2028986 26.5507246 60.7681159 28.6811594 61.7101449 31.0724638 59.2318841 30.3623188 57.2463768 32 57.1594203 29.4202899 54.9855072 28.0434783 57.4057971 27.1594203"></polygon>
+                                <path d="M74.5942029,44.173913 C74.5942029,64.6564735 57.9898069,81.2608696 37.5072464,81.2608696 C17.0246859,81.2608696 0.420289855,64.6564735 0.420289855,44.173913 C0.420289855,23.6913525 17.0246859,7.08695652 37.5072464,7.08695652 C47.3433188,7.08695652 56.7765313,10.9943211 63.7316848,17.9494746 C70.6868383,24.9046281 74.5942029,34.3378406 74.5942029,44.173913 Z M37.5072464,11.6666667 C19.5539899,11.6666667 5,26.2206566 5,44.173913 C5,62.1271695 19.5539899,76.6811594 37.5072464,76.6811594 C55.4605028,76.6811594 70.0144928,62.1271695 70.0144928,44.173913 C70.0144928,26.2206566 55.4605028,11.6666667 37.5072464,11.6666667 Z" id="Shape" fill="#675A5B"></path>
+                                <path d="M68.2608696,65.173913 L95.2608696,82.2898551 C95.2608696,82.2898551 100.434783,86.3043478 98.5942029,91.1449275 L93.7536232,96.942029 C93.7536232,96.942029 89.5797101,100.275362 85.2318841,97.942029 L61.3043478,72.6231884" id="Shape" fill="#675A5B"></path>
                             </g>
                         </g>
                     </g>
