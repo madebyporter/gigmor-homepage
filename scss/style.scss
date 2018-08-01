@@ -264,14 +264,14 @@ a {
 }
 
 .section-hero {
-  background: url("../images/hero-bg-mobile.png") no-repeat center top #222;
+  background: url("../images/gigmor-homepage-hero.jpg") no-repeat center top #222;
   background-size: cover;
   color: $white;
   min-height: 360px;
   overflow: hidden;
   padding: 0 1rem;
   @media (min-width: $mq-medium) {
-    background: url("../images/hero-bg.png") no-repeat center top #222;
+    background: url("../images/gigmor-homepage-hero.jpg") no-repeat center top #222;
     background-size: cover;
     // height: 693px;
   }

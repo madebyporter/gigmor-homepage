@@ -254,7 +254,7 @@ a {
   position: relative; }
 
 .section-hero {
-  background: url("../images/hero-bg-mobile.png") no-repeat center top #222;
+  background: url("../images/gigmor-homepage-hero.jpg") no-repeat center top #222;
   background-size: cover;
   color: #ffffff;
   min-height: 360px;
@@ -262,7 +262,7 @@ a {
   padding: 0 1rem; }
   @media (min-width: 640px) {
     .section-hero {
-      background: url("../images/hero-bg.png") no-repeat center top #222;
+      background: url("../images/gigmor-homepage-hero.jpg") no-repeat center top #222;
       background-size: cover; } }
 
 .section-hero--content {
