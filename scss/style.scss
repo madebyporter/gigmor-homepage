@@ -500,7 +500,7 @@ a {
   @media (min-width: $mq-large) {
     height: 100%;
   }
-  &:after {
+  &:before {
     content: open-quote;
     color: #4D4343;
     @include font-size(200);
@@ -510,6 +510,10 @@ a {
     top: 0px;
     left: -10px;
     z-index: 0;
+  }
+  &:after {
+    visibility: hidden;
+    content: close-quote;
   }
 }
 .comp-testimonial-quote {
@@ -521,6 +525,9 @@ a {
 }
 .comp-testimonial-quote--small {
   @include font-size(17);
+}
+.comp-testimonial-quote--medium {
+  @include font-size(18);
 }
 
 .comp-testimonial-person {

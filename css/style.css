@@ -492,7 +492,7 @@ a {
   @media (min-width: 1024px) {
     .comp-testimonial-content {
       height: 100%; } }
-  .comp-testimonial-content:after {
+  .comp-testimonial-content:before {
     content: open-quote;
     color: #4D4343;
     font-size: 20rem;
@@ -503,6 +503,9 @@ a {
     top: 0px;
     left: -10px;
     z-index: 0; }
+  .comp-testimonial-content:after {
+    visibility: hidden;
+    content: close-quote; }
 
 .comp-testimonial-quote {
   font-family: "Spectral", serif;
@@ -515,6 +518,10 @@ a {
 .comp-testimonial-quote--small {
   font-size: 1.7rem;
   font-size: 17px; }
+
+.comp-testimonial-quote--medium {
+  font-size: 1.8rem;
+  font-size: 18px; }
 
 .comp-testimonial-person {
   margin: 0;
