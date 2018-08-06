@@ -538,10 +538,12 @@ a {
   @include font-size(18);
   display: inline-block;
   font-weight: 700;
+  width: 100%;
 }
 .comp-testimonial-person--role, .comp-testimonial-person--city {
   @include font-size(14);
   display: inline-block;
+  // width: 100%;
 }
 .comp-testimonial--last {
   margin-bottom: 0;
