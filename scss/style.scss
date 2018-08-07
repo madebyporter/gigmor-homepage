@@ -286,13 +286,6 @@ a {
   }
 }
 
-.section-hero-clean {
-  background: $black;
-  // color: $black;
-  .hero-search--input {
-    border: 0;
-  }
-}
 // Hero
 .comp-hero--video {
   display: none;
@@ -332,7 +325,7 @@ a {
   @include font-size(24);
   font-weight: 700;
   margin: 0;
-  padding: 2rem 2rem 2rem 4rem;
+  padding: 2rem 9rem 2rem 4rem;
   &:focus {
     border: 0;
     box-shadow: 0 0 0;
@@ -344,7 +337,11 @@ a {
   @include font-size(24);
   @include vertical-center;
 }
-
+.hero-search--button {
+  position: absolute;
+  right: 20px;
+  @include vertical-center;
+}
 .section-cta {
   background: url("../images/homepage-image-cta.png") no-repeat center top;
   background-size: cover;

@@ -274,11 +274,6 @@ a {
     .section-hero--content {
       padding: 8rem 0; } }
 
-.section-hero-clean {
-  background: #383131; }
-  .section-hero-clean .hero-search--input {
-    border: 0; }
-
 .comp-hero--video {
   display: none; }
   @media (min-width: 640px) {
@@ -316,7 +311,7 @@ a {
   font-size: 24px;
   font-weight: 700;
   margin: 0;
-  padding: 2rem 2rem 2rem 4rem; }
+  padding: 2rem 9rem 2rem 4rem; }
   .hero-search--input:focus {
     border: 0;
     box-shadow: 0 0 0; }
@@ -326,6 +321,17 @@ a {
   left: 20px;
   font-size: 2.4rem;
   font-size: 24px;
+  top: 50%;
+  position: absolute;
+  -moz-transform: translate(0, -50%);
+  -o-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%); }
+
+.hero-search--button {
+  position: absolute;
+  right: 20px;
   top: 50%;
   position: absolute;
   -moz-transform: translate(0, -50%);
